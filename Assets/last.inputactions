@@ -78,6 +78,28 @@
                 },
                 {
                     "name": "",
+                    "id": "108f896c-e7ab-4abf-b13c-cc4c24120cd5",
+                    "path": "<XInputController>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steering",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46377c93-ec24-4497-94ce-743b4ff69dd5",
+                    "path": "<XInputController>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Steering",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "52bd5c0a-4e00-4590-b131-e1b4da78f5c1",
                     "path": "<SwitchProControllerHID>/rightTrigger",
                     "interactions": "",
@@ -100,6 +122,50 @@
                 },
                 {
                     "name": "",
+                    "id": "bfeb1a70-b07a-417f-9810-161cc2a99482",
+                    "path": "<XInputController>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "43ffa71f-5ae2-4861-a8c7-a257e67f44e4",
+                    "path": "<XInputController>/leftStick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ab63ca20-f57b-48c3-aeea-d820a96fe1b3",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aad337c9-367e-4c5e-9959-d4c876d69ca5",
+                    "path": "<XInputController>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "d94a4045-8e6a-4a84-8279-cdcacf58c229",
                     "path": "<SwitchProControllerHID>/leftTrigger",
                     "interactions": "",
@@ -111,8 +177,30 @@
                 },
                 {
                     "name": "",
+                    "id": "6957de45-fca9-4879-919f-3f4d5702930f",
+                    "path": "<XInputController>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Brake",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "9fafe2dd-0ebb-438d-ab71-0b627a07a0fd",
                     "path": "<SwitchProControllerHID>/leftStick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Reverse",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d5232b51-0b57-486b-a03e-514b67e815b8",
+                    "path": "<XInputController>/leftStick/up",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
