@@ -1,4 +1,4 @@
-# 🚗 VR Car Driving Simulator  
+# 🚗 The Car Driving Simulator VR
 A fully immersive car driving simulator in Unity with VR support using Meta Quest 2 and NITTO Drive 1 Pro steering wheel. The simulator features realistic car physics, VR head tracking, and controller-based driving mechanics.  
 
 ---
