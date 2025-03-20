@@ -95,12 +95,11 @@ cd <your-project-folder>
 ---
 
 ## 📸 Screenshots  
+![Screenshot 2025-03-20 231432](https://github.com/user-attachments/assets/a6bb7066-f7e9-47e3-bae2-358099bb083f)
 ![Screenshot 2025-03-20 231945](https://github.com/user-attachments/assets/0a5b1d08-f7a1-44d7-9a58-4c653a2fdb89)
 ![Screenshot 2025-03-20 231834](https://github.com/user-attachments/assets/795340c2-4fe1-4d68-827b-8310266b09cc)
 ![Screenshot 2025-03-20 231758](https://github.com/user-attachments/assets/12cbd757-621d-4910-a005-29dab9dd3219)
 ![Screenshot 2025-03-20 231543](https://github.com/user-attachments/assets/a85ffbd8-c5bd-4bcf-a887-f5966e6e84eb)
-![Screenshot 2025-03-20 231432](https://github.com/user-attachments/assets/a6bb7066-f7e9-47e3-bae2-358099bb083f)
-![Screenshot 2025-03-20 231347](https://github.com/user-attachments/assets/97cd6377-22c8-4e0c-b9c5-344704ad767d)
 ---
 
 ## 🚀 How to Play  
