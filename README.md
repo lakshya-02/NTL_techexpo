@@ -186,8 +186,8 @@ This project is licensed under the **MIT License**. You are free to use and modi
 
 ## 🚀 Contact  
 For any issues or suggestions:  
-📧 Email: lakshyasingh@gmail.com  
-📌 GitHub: https://github.com/lakshya-02
-📌 GitHub: https://github.com/Tahaa-Mushtaq
-📌 LinkedIn: https://www.linkedin.com/in/lakshya-singh-2833a2328/
+📧 Email: lakshyasingh@gmail.com   
+📌 GitHub: https://github.com/lakshya-02    
+📌 GitHub: https://github.com/Tahaa-Mushtaq      
+📌 LinkedIn: https://www.linkedin.com/in/lakshya-singh-2833a2328/    
 ---
