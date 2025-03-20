@@ -10,7 +10,7 @@ A fully immersive car driving simulator in Unity with VR support using Meta Ques
 
 ✅ **VR Integration:**  
 - Supports Meta Quest 2 with OpenXR.  
-- Full 360° head tracking with first-person driver view.  
+- first-person driver view.  
 
 ✅ **Steering Wheel Controls:**  
 - NITTO Drive 1 Pro compatibility with Xbox mode.  
@@ -106,7 +106,7 @@ cd <your-project-folder>
 1. Start Unity with your **Meta Quest 2** connected via **Air Link**.  
 2. Press **Play** in Unity.  
 3. Put on the **Meta Quest 2** headset.  
-4. Use the steering wheel for driving and VR headset for 360° view.  
+4. Use the steering wheel for driving and VR headset for a realastic view.  
 5. Enjoy the immersive driving experience! 🚗🕶️  
 
 ---
