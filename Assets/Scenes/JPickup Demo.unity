@@ -2003,19 +2003,101 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 543642030}
     m_Modifications:
+    - target: {fileID: 1447481440571112149, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_Text
+      value: 'Direction
+
+        Acceleration
+
+        Brake
+
+        Reverse Gear
+
+        Increse
+        Gear
+
+        Neutral Gear
+
+        Change Camera Toggle
+
+        Reset Car'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1447481440571112149, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1447481440571112149, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1938580747138169861, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4464885263304973432, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 16.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4464885263304973432, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -153.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5741419463341913007, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
       propertyPath: m_Text
       value: 'Press and hold
 
-        <b>K</b> or <b>START</b>
+        <b>Left White Key</b> and <b>A</b>
 
-        to start
-        the engine'
+        to
+        start the engine'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463424709494, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_Text
+      value: '<b>Steering</b>
+
+        <b>White Key (Left) </b>
+
+        <b>White
+        Key (Right) </b>
+
+        <b>B key</b>
+
+        <b>X key</b>
+
+        <b>Y
+        key</b>
+
+        <b>RB key</b>
+
+        <b>LB key</b>'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463424709494, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463424709494, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463424709495, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -106.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463424709495, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -154.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419463521386668, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_Text
+      value: The Car Simulator VR
       objectReference: {fileID: 0}
     - target: {fileID: 5741419463587855682, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
       propertyPath: m_Text
-      value: "Full list at Help icon <b><size=24>?</size> \u2192 Input</b>\n<size=14>Click
-        anywhere or start the engine to close this</size>"
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5741419464183815586, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8838206598712301176, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
       propertyPath: m_Pivot.x
@@ -2103,7 +2185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8838206598712301179, guid: 1bab401d9c9316e47a8181018e64851f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
