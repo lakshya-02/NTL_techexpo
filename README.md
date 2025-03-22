@@ -46,8 +46,8 @@ A fully immersive car driving simulator in Unity with VR support using Meta Ques
 
 ✅ **1. Clone the Repository**  
 ```bash
-git clone <your-repo-link>  
-cd <your-project-folder>  
+git clone https://github.com/lakshya-02/The_Car_Simulator_-VR-  
+cd VR-Game  
 ```
 
 ✅ **2. Unity Configuration**  
